@@ -9,9 +9,23 @@
 
 ## Overview
 
-Hippox Skills Market is a Git repository-based skill distribution platform. Any directory structure that follows the specifications below will be recognized by Hippox, displayed, and available for installation.
+Hippox Skills Market is a Git repository-based skill distribution platform. Any directory structure that follows the specifications below will be recognized by Hippox, displayed, and available for installation. </br>
+Place your skill in the specified category.
 
 ---
+
+## Skill classification
+
+| Classification | Describe                         |
+| :------------- | :------------------------------- |
+| **email**      | Email-related skill categories.  |
+| **code**       | Code-related skill categories.   |
+| **file**       | File-related skill categories.   |
+| **math**       | Math-related skill categories.   |
+| **net**        | Net-related skill categories.    |
+| **system**     | System-related skill categories. |
+| **time**       | Time-related skill categories.   |
+| **other**      | Other skill categories.          |
 
 ## Directory Structure
 

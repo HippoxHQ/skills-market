@@ -9,9 +9,23 @@
 
 ## 概述
 
-Hippox 技能市场是一个基于 Git 仓库的Skill分发平台。任何符合以下规范的目录结构都可以被 Hippox 识别、展示并安装到系统中。
+Hippox 技能市场是一个基于 Git 仓库的Skill分发平台。任何符合以下规范的目录结构都可以被 Hippox 识别、展示并安装到系统中. </br>
+将你的skill放入指定的分类目录.
 
 ---
+
+## Skill分类
+
+| Classification | Describe                |
+| :------------- | :---------------------- |
+| **email**      | 与Email相关的Skill分类. |
+| **code**       | 与代码相关的Skill分类.  |
+| **file**       | 与文件相关的Skill分类.  |
+| **math**       | 与数学相关的Skill分类.  |
+| **net**        | 与网络相关的Skill分类.  |
+| **system**     | 与系统相关的Skill分类.  |
+| **time**       | 与时间相关的Skill分类.  |
+| **other**      | 其他Skill分类           |
 
 ## 目录结构
 
